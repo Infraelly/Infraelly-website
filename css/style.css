@@ -5,3 +5,8 @@ div
     text-align: center;
     padding: 5px;
 }
+
+div#phMessage
+{
+    margin-top: 320px;
+}

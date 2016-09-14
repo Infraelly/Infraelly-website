@@ -1,4 +1,4 @@
 Infraelly-website
 =================
 
-Website for the Infraelly project (not functional at the moment)
+Website for the Infraelly project 
